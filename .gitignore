@@ -1,24 +1,11 @@
-# Node.js dependencies
+# Ignore node_modules
 node_modules/
 
-# Tailwind CSS build files
-dist/
+# Ignore build directory
+build/
 
-# Logs
-logs/
+# Ignore log files
 *.log
 
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# MacOS files
-.DS_Store
-
-# Windows files
-Thumbs.db
-
-# Environment variables file
+# Ignore .env files
 .env
